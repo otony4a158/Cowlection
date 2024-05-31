@@ -1,0 +1,10 @@
+{
+  "homepage": "${giturl}",
+  "${mcversion}": {
+    "${version}": "${giturl}blob/master/CHANGELOG.md"
+  },
+  "promos": {
+    "${mcversion}-latest": "${version}",
+    "${mcversion}-recommended": "${version}"
+  }
+}
